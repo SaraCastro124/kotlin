@@ -1,0 +1,11 @@
+fun main(args: Array<String>){
+    val a = 1
+    val b = 2
+    val c = 3
+    val suma = a + b + c
+    println(suma)
+   
+
+   var a = 6
+   var resultado = --a
+    println(resultado)
